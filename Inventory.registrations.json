@@ -1,0 +1,35 @@
+[
+  {
+    "_id": "662be8efba876c647ec5951e",
+    "username": "SIBIRAJ L A",
+    "email": "sibiraj.cs21@bitsathy.ac.in",
+    "idNumber": "Id - 1",
+    "phoneNumber": "1234567890",
+    "organization": "Inventory",
+    "role": "Manager",
+    "departmentName": "",
+    "__v": 0
+  },
+  {
+    "_id": "662c835fde626c9c7091b8fe",
+    "username": "SIBIRAJ",
+    "email": "sibirajl007@gmail.com",
+    "idNumber": "Id - 2",
+    "phoneNumber": "1234567890",
+    "organization": "Department",
+    "role": "Head",
+    "departmentName": "Computer Science",
+    "__v": 0
+  },
+  {
+    "_id": "662c8384de626c9c7091b903",
+    "username": "HIKIGAYA",
+    "email": "hikigayatg@gmail.com",
+    "idNumber": "Id - 3",
+    "phoneNumber": "1234567890",
+    "organization": "Department",
+    "role": "Member",
+    "departmentName": "Computer Science",
+    "__v": 0
+  }
+]
